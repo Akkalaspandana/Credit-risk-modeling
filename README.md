@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.1-red.svg)](https://streamlit.io)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-green.svg)](https://xgboost.ai)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🎯 Project Overview
 
@@ -77,9 +76,6 @@ Credit-Risk-Modeling-End-to-End-Project/
 │
 ├── images/                         # Project images and visualizations
 │   ├── Feature importance.png
-│   ├── Lauki Finance.JPG
-│   ├── Lime.JPG
-│   └── ROC Curve.png
 │
 ├── .gitignore                      # Git ignore file
 ├── README.md                       # Project documentation
@@ -236,7 +232,7 @@ The project includes comprehensive visualizations:
 
 ## 📞 Support
 
-For support, email your.spandana.akkala3@gmail.com or create an issue in the repository.
+For support, email spandana.akkala3@gmail.com or create an issue in the repository.
 
 ---
 

@@ -74,9 +74,6 @@ Credit-Risk-Modeling-End-to-End-Project/
 │       ├── model_data.pkl          # Trained model and scaler
 │       └── tuned_hyperparameters.txt
 │
-├── images/                         # Project images and visualizations
-│   ├── Feature importance.png
-│
 ├── .gitignore                      # Git ignore file
 ├── README.md                       # Project documentation
 ├── DEPLOYMENT.md                   # Deployment guide
